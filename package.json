@@ -1,0 +1,19 @@
+{
+  "name": "advanced-git",
+  "version": "1.0.0",
+  "description": "The accompanying exercises for [Nina Zakharenko's](https://twitter.com/nnja) [Git In-Depth Video Workshop](https://frontendmasters.com/courses/git-in-depth/) on Frontend Masters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewwbolton/advanced-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewwbolton/advanced-git/issues"
+  },
+  "homepage": "https://github.com/matthewwbolton/advanced-git#readme"
+}
